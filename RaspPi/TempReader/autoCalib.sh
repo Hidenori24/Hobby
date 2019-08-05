@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for var in {1..50}
+for var in `seq -f %02g 24 65`
 do
   sudo ./dht11_test_cpp $var > result/result$var.dat
   echo "$var times Calib end"

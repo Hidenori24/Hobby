@@ -1,13 +1,10 @@
 0
 Raspberry Pi wiringPi DHT11 Temperature test program
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
-Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.6 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
-Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.6 *C (80.6 *F)
-Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
@@ -16,4 +13,4 @@ Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 Humidity = 50.0 % Temperature = 27.7 *C (80.6 *F)
 loop : 40
-Data miss Count : 25
+Data miss Count : 28
